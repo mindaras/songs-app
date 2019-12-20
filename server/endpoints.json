@@ -1,0 +1,5 @@
+{
+  "favorites": "/favorites",
+  "songs": "/songs/:id",
+  "itunes": "https://itunes.apple.com/lookup?id="
+}

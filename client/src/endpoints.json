@@ -1,0 +1,5 @@
+{
+  "favorites": "http://localhost:8000/favorites",
+  "songsByTerm": "http://localhost:8000/songsByTerm",
+  "songsById": "http://localhost:8000/songsById"
+}
